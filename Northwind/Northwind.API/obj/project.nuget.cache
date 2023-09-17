@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3PXR6yIQArEagCJ1qqSTNjfUpI11ODpEpgGjR8aaO0qNbuvI6jIWkjwVzk/iVLO85w7Bvnj5A7MtcO3s0EKdA==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectofinal\\Northwind\\Northwind.API\\Northwind.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\steil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\steil\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\steil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\steil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\steil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
